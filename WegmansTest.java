@@ -1,6 +1,4 @@
-/**
-  The main class of recipefinder
-*/
+/** The main class of recipefinder */
 
 import java.io.File;
 import java.io.IOException;
