@@ -1,6 +1,4 @@
-/**
-  A class to store the barcode and name of the ingredient.
-*/
+/** A class to store the barcode and name of the ingredient. */
 
 public class Ingredient {
     private long barcode;
